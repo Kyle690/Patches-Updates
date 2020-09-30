@@ -4,6 +4,12 @@ Install module patch package
 
     https://github.com/ds300/patch-package
     
+Add the script 
+
+    "script":{
+        "postinstall": "patch-package"
+    }
+    
 Open this file
         
     node_modules/react-native/Libraries/Image/RCTUIImageViewAnimated.m

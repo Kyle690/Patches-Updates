@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3764221-ea0c-4b67-9147-dad779ea1de9" name="Default Changelist" comment="" />
+    <list default="true" id="f3764221-ea0c-4b67-9147-dad779ea1de9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-native-Image-patch.md" beforeDir="false" afterPath="$PROJECT_DIR$/React-native-Image-patch.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iDtFDJFNaVz4C0HkLDhzuuv2xq" />
   <component name="ProjectViewState">
@@ -29,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601453884429</updated>
-      <workItem from="1601453885559" duration="473000" />
+      <workItem from="1601453885559" duration="518000" />
+      <workItem from="1601454432041" duration="71000" />
     </task>
     <servers />
   </component>
