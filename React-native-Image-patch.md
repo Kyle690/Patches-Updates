@@ -1,4 +1,4 @@
-The goal of this patch is to repair the react native problem of images not rendering in IOS
+## The goal of this patch is to repair the react native problem of images not rendering in IOS
 
 Install module patch package
 
